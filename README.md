@@ -17,7 +17,7 @@ For this model, u need the following:
 ### 360 - Single Sided:
   
   - Image size single side: 512 x 464px
-  - Use: [template-v2-1sides-clear-template.psd](template-v2-1sides-clear-template.psd)
+  - Use: [Template-v2-1sides-clear-template.psd](template-v2-1sides-clear-template.psd)
   
   This width is the 360 degree of the cylinder, if you don't want the image to be completely 360 placed on the cylinder, keep white space beside the image. See the example below.
   
@@ -28,7 +28,7 @@ For this model, u need the following:
 
 ### 180 - double Sided:
   - Image size double sided: 256 x 464px
-  - Use: [Template-v2-2sides-clear-template.psd](Template-v2-2sides-clear-template.psd)
+  - Use: [Template-v2-2sides-clear-template.psd](template-v2-2sides-clear-template.psd)
 
 If u want double sided, with the same image, u need to save the same image 2 times with a different name. This example shows no white spaces beside the image, this means the end result will be that the images be directly connected to the other side (image). (see image on first page)
 
