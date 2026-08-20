@@ -16,11 +16,18 @@ Image used in this example: [https://wallpapers-clan.com/sticker-png/beautiful-h
 
 For this model, u need the following:
 
-- Image size single side: 512 x 464px
-- Use: [template-v2-1sides-clear-template.psd](template-v2-1sides-clear-template.psd) (right click -> open url. In the new window, click the download icon)
+### 360 - Single Sided:
+  
+  - Image size single side: 512 x 464px
+  - Use: [template-v2-1sides-clear-template.psd](./template-v2-1sides-clear-template.psd) (right click -> open url. In the new window, click the download icon)
+  
+  This width is the 360 degree of the cylinder, if you don't want the image to be completely 360 placed on the cylinder, keep white space beside the image. See the example below.
+  
+  <img width="1987" height="861" alt="image" src="https://github.com/user-attachments/assets/540b2199-b5b0-45b5-9e74-e55ff27be297" />
+  
+  sidenote: Good to know, the template has a part that is called “keep clear” this is where the body of the led is put. This part is blocked on the cylinder from the light passing through.
+  
 
-This width is the 360 degree of the cylinder, if you don't want the image to be completely 360 placed on the cylinder, keep white space beside the image. See the example below.
-
-
-
-Good to know, the template has a part that is called “keep clear” this is where the body of the led is put. This part is blocked on the cylinder from the light passing through.
+### 180 - double Sided:
+  - Image size double sided: 256 x 464px
+  - 
