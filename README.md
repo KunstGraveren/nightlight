@@ -4,6 +4,8 @@
 
 180 - double sided: <img width="1114" height="1123" alt="image" src="https://github.com/user-attachments/assets/6dc853bd-f1a7-4b98-97eb-c5a1ce4b4def" />
 
+<img width="1512" height="2016" alt="IMG_4294" src="https://github.com/user-attachments/assets/016c119c-d288-46bf-9bae-29303332ffba" />
+
 A lithophane is a three-dimensional (3D) relief image that reveals its detailed picture when backlit by a light source. It is created by varying the thickness of the material. Thicker areas of the lithophane block more light, appearing darker, while thinner areas allow more light to pass through, appearing brighter. A lithophane is produced by converting a 2D image into a 3D model where pixel brightness levels are translated into corresponding thicknesses. This technique leverages the relationship between light transmission and material thickness to produce detailed, visually compelling images in 3D printed form.
 
 
