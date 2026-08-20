@@ -27,8 +27,9 @@ For this model, u need the following:
   This width is the 360 degree of the cylinder, if you don't want the image to be completely 360 placed on the cylinder, keep white space beside the image. See the example below.
   
   <img width="1987" height="861" alt="image" src="https://github.com/user-attachments/assets/540b2199-b5b0-45b5-9e74-e55ff27be297" />
-  
-  sidenote: Good to know, the template has a part that is called “keep clear” this is where the body of the led is put. This part is blocked on the cylinder from the light passing through.
+
+  Ps. Make sure when your done, to “disable/hide” the template layers with the lines and text :D
+  Ps: Good to know, the template has a part that is called “keep clear” this is where the body of the led is put. This part is blocked on the cylinder from the light passing through.
   
 
 ### 180 - double Sided:
@@ -42,7 +43,7 @@ If u want double sided, with the same image, u need to save the same image 2 tim
 <img width="955" height="806" alt="image" src="https://github.com/user-attachments/assets/7b99f4db-e9a9-4442-a82f-9c4506b8e01f" />
 
 Ps. Make sure when your done, to “disable/hide” the template layers with the lines and text :D
-
+Ps: Good to know, the template has a part that is called “keep clear” this is where the body of the led is put. This part is blocked on the cylinder from the light passing through.
 
 # Image to 3D lithophane
 
