@@ -29,6 +29,8 @@ For this model, u need the following:
 ### 180 - double Sided:
   - Image size double sided: 256 x 464px
   - Use: [Template-v2-2sides-clear-template.psd](template-v2-2sides-clear-template.psd)
+    - download .psd:
+    - <img width="1841" height="1014" alt="image" src="https://github.com/user-attachments/assets/09776a70-c3b1-40df-baca-cd4aa325c4b2" />
 
 If u want double sided, with the same image, u need to save the same image 2 times with a different name. This example shows no white spaces beside the image, this means the end result will be that the images be directly connected to the other side (image). (see image on first page)
 
