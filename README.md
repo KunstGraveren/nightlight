@@ -17,7 +17,7 @@ For this model, u need the following:
 ### 360 - Single Sided:
   
   - Image size single side: 512 x 464px
-  - Use: [template-v2-1sides-clear-template.psd](./template-v2-1sides-clear-template.psd) (right click -> open url. In the new window, click the download icon)
+  - Use: [template-v2-1sides-clear-template.psd](template-v2-1sides-clear-template.psd)
   
   This width is the 360 degree of the cylinder, if you don't want the image to be completely 360 placed on the cylinder, keep white space beside the image. See the example below.
   
