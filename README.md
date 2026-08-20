@@ -1,10 +1,6 @@
 # USB Nightlight lithophane
 
-360 - single sided: <img width="111" height="111" alt="image" src="https://github.com/user-attachments/assets/44f5c5af-da17-4c8d-9146-c67be0fdccf3" />
-
-180 - double sided: <img width="111" height="112" alt="image" src="https://github.com/user-attachments/assets/6dc853bd-f1a7-4b98-97eb-c5a1ce4b4def" />
-
-<img width="1512" height="2016" alt="IMG_4294" src="https://github.com/user-attachments/assets/016c119c-d288-46bf-9bae-29303332ffba" />
+360 - single sided: <img height="201" alt="image" src="https://github.com/user-attachments/assets/44f5c5af-da17-4c8d-9146-c67be0fdccf3" /> | 180 - double sided: <img  height="201" alt="image" src="https://github.com/user-attachments/assets/6dc853bd-f1a7-4b98-97eb-c5a1ce4b4def" /> | result: <img width="151" height="201" alt="IMG_4294" src="https://github.com/user-attachments/assets/016c119c-d288-46bf-9bae-29303332ffba" />
 
 A lithophane is a three-dimensional (3D) relief image that reveals its detailed picture when backlit by a light source. It is created by varying the thickness of the material. Thicker areas of the lithophane block more light, appearing darker, while thinner areas allow more light to pass through, appearing brighter. A lithophane is produced by converting a 2D image into a 3D model where pixel brightness levels are translated into corresponding thicknesses. This technique leverages the relationship between light transmission and material thickness to produce detailed, visually compelling images in 3D printed form.
 
