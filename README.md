@@ -58,8 +58,8 @@ On your first visit on the page, you will have a pop-up, close this, and click o
 
 Use one of the following models to preload the needed settings.
 
-Template Model Single side: [https://tool.itslitho.com/profile/0d8daa17](https://tool.itslitho.com/profile/0d8daa17)
-Template Model Double sided: [https://tool.itslitho.com/profile/4787214d](https://tool.itslitho.com/profile/4787214d)
+- Template Model Single side: [https://tool.itslitho.com/profile/0d8daa17](https://tool.itslitho.com/profile/0d8daa17)
+- Template Model Double sided: [https://tool.itslitho.com/profile/4787214d](https://tool.itslitho.com/profile/4787214d)
 
 ** note, the following steps shows the example of the Double Sided cylinder, the steps for a single side are the same, but u will use 1 image.
 
