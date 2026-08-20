@@ -1,8 +1,8 @@
 # USB Nightlight lithophane
 
-360 - single sided: <img width="1111" height="1114" alt="image" src="https://github.com/user-attachments/assets/44f5c5af-da17-4c8d-9146-c67be0fdccf3" />
+360 - single sided: <img width="111" height="111" alt="image" src="https://github.com/user-attachments/assets/44f5c5af-da17-4c8d-9146-c67be0fdccf3" />
 
-180 - double sided: <img width="1114" height="1123" alt="image" src="https://github.com/user-attachments/assets/6dc853bd-f1a7-4b98-97eb-c5a1ce4b4def" />
+180 - double sided: <img width="111" height="112" alt="image" src="https://github.com/user-attachments/assets/6dc853bd-f1a7-4b98-97eb-c5a1ce4b4def" />
 
 <img width="1512" height="2016" alt="IMG_4294" src="https://github.com/user-attachments/assets/016c119c-d288-46bf-9bae-29303332ffba" />
 
