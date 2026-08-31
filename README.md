@@ -7,11 +7,12 @@
 
 A lithophane is a three-dimensional (3D) relief image that reveals its detailed picture when backlit by a light source. It is created by varying the thickness of the material. Thicker areas of the lithophane block more light, appearing darker, while thinner areas allow more light to pass through, appearing brighter. A lithophane is produced by converting a 2D image into a 3D model where pixel brightness levels are translated into corresponding thicknesses. This technique leverages the relationship between light transmission and material thickness to produce detailed, visually compelling images in 3D printed form.
 
-
 ## Prepare your image
 To ensure a proper fit of your image on the lithophane, it needs to have the proper height/width of the image. 
 
 If you dont own photoshop, u can use for free the online web editor: [https://www.photopea.com/](https://www.photopea.com/)
+
+Steps, explaination how to edit a images issnt explained in this guide. If u need help here ask the crew of the makerspace to help u.
 
 Image used in this example: [https://wallpapers-clan.com/sticker-png/beautiful-hatsune-miku/](https://wallpapers-clan.com/sticker-png/beautiful-hatsune-miku/)
 
