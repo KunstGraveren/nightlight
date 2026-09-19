@@ -16,6 +16,8 @@ Steps, explaination how to edit a images issnt explained in this guide. If u nee
 
 Image used in this example: [https://wallpapers-clan.com/sticker-png/beautiful-hatsune-miku/](https://wallpapers-clan.com/sticker-png/beautiful-hatsune-miku/)
 
+Export your images as PNG
+
 For this model, u need the following:
 
 ### 360 - Single Sided:
